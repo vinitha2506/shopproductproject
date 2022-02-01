@@ -1,0 +1,54 @@
+body{
+    background-color:white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+}
+h2{
+    font-style: Nunito;
+    font-size:28px;
+    padding-top: 30px;
+    font-weight:lighter;
+}
+h4{
+    font-style: Nunito;
+    font-weight:lighter;
+}
+.text{
+    color:#61A3DB;
+    text-decoration: none;
+}
+
+.card1{
+    border:5px solid #00000029;
+    width: 256px;
+    height: 400px;
+    margin-left:200px;
+    border-radius:10px;
+    float:left;
+    box-shadow: 0px 0px 6px #00000029;
+      
+}
+.shp-btn{
+   border:1px;
+   padding:10px 20px 10px 20px;
+   background-color: #151515;
+   color:white;
+   width:12px;
+   text-decoration: none;
+   border-radius: 5px;
+   font-style: Nunito;
+   font-weight:lighter;
+   font-size:12px;
+   
+   
+}
+p{
+    font-style: Nunito;  
+    font-weight:lighter;
+    font-size:12px;
+  
+    
+}
